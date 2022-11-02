@@ -1,5 +1,5 @@
 # stepmania-wineskin
-Unofficial StepMania Wineskins, for 64-bit Macs
+Unofficial StepMania Wineskins, for 64-bit Macs!
 !
 
 <img width="1440" alt="Screenshot 2022-11-02 at 19 06 07" src="https://user-images.githubusercontent.com/107404453/199435203-08bc98f4-b05d-46ed-87a9-70148750b12d.png">
